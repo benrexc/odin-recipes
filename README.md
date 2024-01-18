@@ -1,3 +1,3 @@
 # odin-recipes
 
-Testing out GIT commands, as well as HTML
+# Testing out GIT commands, as well as HTML
